@@ -1,5 +1,0 @@
-menuconfig EXAMPLES_ANGLES_TEST
-	bool "angles_test"
-	default n
-	---help---
-		Send a desired attitude to the tilting multicopter
